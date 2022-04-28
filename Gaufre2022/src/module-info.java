@@ -1,0 +1,2 @@
+module gaufre2022 {
+}
