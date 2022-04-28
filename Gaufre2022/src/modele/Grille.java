@@ -14,5 +14,6 @@ public class Grille {
 	  nbcolones = c ;
 	  nblignes = l ;
 	  joueurquijoue = 1 ;
+	  int test = 1 ;
   }
 }
